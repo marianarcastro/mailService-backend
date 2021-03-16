@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Implementation-Title: Teste prático: Elaboração de backend/front pa
+ ra um service de email
+Implementation-Version: 0.0.1-SNAPSHOT
+Build-Jdk-Spec: 1.8
+Created-By: Maven Integration for Eclipse
+Main-Class: br.com.mailService.App
+
